@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsMate/static/css/main.31d6cfe0.css",
+    "main.js": "/NewsMate/static/js/main.4f0f1881.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsMate/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsMate/static/media/loading.4c0dabf64bfe071965aa.gif",
+    "index.html": "/NewsMate/index.html",
+    "main.4f0f1881.js.map": "/NewsMate/static/js/main.4f0f1881.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsMate/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4f0f1881.js"
+  ]
+}
