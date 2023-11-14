@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Avdiivka civilians cling on amid Russian assault",
+      "description": "Just over 1,000 civilians remain in Avdiivka, focus of a bloody Russian assault in eastern Ukraine.",
+      "url": "http://www.bbc.co.uk/news/world-europe-67196921",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2973/production/_131511601_capture.png",
+      "publishedAt": "2023-10-24T04:52:17.708445Z",
+      "content": "As Russian missiles shatter her town, Hanna is desperate to escape. But her elderly mother refuses to leave. \r\n\"I can't leave her,\" Hanna tells us over the phone. \"She said she wanted to sleep in her… [+3387 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iceland's PM to strike over gender pay gap",
+      "description": "Katrín Jakobsdóttir will not work in protest at the gender pay gap and gender-based violence.",
+      "url": "http://www.bbc.co.uk/news/world-europe-67195224",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A00A/production/_131507904_759de7e6e827764b725f672e842f81389ec490050_0_5500_30941000x563.jpg",
+      "publishedAt": "2023-10-24T03:07:17.8954549Z",
+      "content": "Tens of thousands of women in Iceland, including Prime Minister Katrín Jakobsdóttir, will refuse to work on Tuesday. \r\nThe \"kvennafri\", or women's day off, has been called in protest at the gender pa… [+1815 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Some Gazans returning to north despite risks, UN says",
+      "description": "Hundreds of thousands of people told to flee south are struggling to find shelter, food and water.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67194485",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9665/production/_131510583_110677e1c0a5cf2ca0ea8868b845fd03ed7d16d6.jpg",
+      "publishedAt": "2023-10-24T03:07:16.2864796Z",
+      "content": "Media caption, Inside the Gaza hospital overwhelmed by the injured\r\nSome Palestinians who fled their homes in the north of Gaza are starting to return because of the dire situation in the south, a se… [+5653 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Britney Spears' memoir is an angry, cautionary tale",
+      "description": "The Woman In Me, which is published on Tuesday, lifts the lid on her 13-year conservatorship.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-67193983",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16BE8/production/_131506139_gettyimages-457100765.jpg",
+      "publishedAt": "2023-10-24T01:52:15.7220812Z",
+      "content": "Britney Spears knows what it's like to feel trapped: First by poverty, then by fame, then by her family.\r\nShe has been subject to scrutiny and ridicule throughout her life. As a teenager, journalists… [+9013 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Chinese bots targeted Trudeau and others - Canada",
+      "description": "Canada says the campaign was carried out to discredit lawmakers and silence criticism of Beijing.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67201927",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AF15/production/_131512844_b8843a16121eb2b1121257cfc6b4b8a555655fc60_0_5500_36731000x668.jpg",
+      "publishedAt": "2023-10-23T23:52:14.6593318Z",
+      "content": "Canada says it has detected a disinformation campaign likely tied to China that has targeted dozens of its politicians, including Prime Minister Justin Trudeau.\r\nThe \"spamouflage\" campaign used waves… [+2762 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Former Olympic champion Retton home from hospital",
+      "description": "Olympic gold medallist Mary Lou Retton is home from hospital and \"in recovery mode\", says one of her four daughters.",
+      "url": "http://www.bbc.co.uk/sport/gymnastics/67200775",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1323E/production/_131389387_marylouretton.jpg",
+      "publishedAt": "2023-10-23T22:22:23.3318475Z",
+      "content": "Mary Lou Retton became the first American woman to win the all-around gold at the Los Angeles Olympics in 1984\r\nOlympic gold medallist Mary Lou Retton is home from hospital and \"in recovery mode\", sa… [+888 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Senator Bob Menendez pleads not guilty to foreign agent charge",
+      "description": "The US Senator is accused of using his influence and power in ways that benefitted Egypt.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67198950",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0191/production/_131510400_14e3fe5ed7fcfe83cc8891db593a598032e74f9b0_224_5500_30945500x3094.jpg",
+      "publishedAt": "2023-10-23T19:37:25.9094828Z",
+      "content": "Senator Robert Menendez has pleaded not guilty to charges alleging he acted as an agent of Egypt while serving as a member of Congress.\r\nThe Senator is accused of providing \"sensitive US government i… [+1807 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Israel screens unseen Hamas bodycam footage of attack",
+      "description": "Journalists were shown 43 minutes of raw footage from the attack but most of it will not be made public.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-67198270",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0461/production/_131512110_hamasbodycampic.jpg",
+      "publishedAt": "2023-10-23T18:07:22.8309698Z",
+      "content": "This article contains descriptions of violence which some readers may find distressing.\r\nThe Israeli military held a screening for journalists on Monday of raw footage recovered from Hamas body camer… [+6160 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Man charged with attempting to crash passenger jet",
+      "description": "The Alaska Airlines flight to San Francisco had 80 people on board.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67177294",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-10-23T16:07:20.8933445Z",
+      "content": "A US man has been charged with 83 counts of attempted murder, after he allegedly tried to crash a passenger jet while in flight.\r\nThe man was sitting in the cockpit of an Alaska Airlines flight behin… [+334 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Who are the Republican candidates to be US House Speaker?",
+      "description": "Republicans are again searching for a new nominee after Jim Jordan's Speaker bid fell apart last week.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67195019",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/158D8/production/_131508288_gettyimages-1736828131-1.jpg",
+      "publishedAt": "2023-10-23T14:07:29.9021389Z",
+      "content": "Nearly three weeks after Kevin McCarthy's ouster, the Republican party's fraught search for a Speaker of the House of Representatives continues. \r\nLast week, embattled House Republicans moved to remo… [+6517 chars]"
+    }
+  ]
+}

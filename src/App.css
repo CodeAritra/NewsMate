@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+ul li{
+  cursor: pointer;
+}
+li a:hover{
+  color: #A0E9FF;
+}
